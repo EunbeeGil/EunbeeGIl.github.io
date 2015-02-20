@@ -1,0 +1,52 @@
+h1 {
+  font-family: 'DejaVuSansBook', arial, sans-serif;
+  text-transform:uppercase;
+  text-align:center; 
+  font-variant:small-caps;
+  font-size:45px;
+  margin:20px;
+  color:#4C4748}
+h2 {
+  font-family: 'DejaVuSansBook', arial, sans-serif;
+  text-transform: capitalize;
+  text-align:center; 
+  font-variant:small-caps;
+  font-size:15px;
+  margin:10px;
+  color:#4C4748}
+h3{
+  font-family:Times,'Times New Roman',serif;
+  font-size:20px;
+  margin:20;
+  text-align:center;
+  color:#4C4748}
+h4{
+  font-family:sentinel, georgia, times, serif;
+  font-size:13px;
+  margin:20;
+  text-align:center;}
+p{
+  font-family:normal normal 12px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+  font-variant:small-caps;
+  text-transform:none;
+  font-size:13px;
+  margin:10px;
+  color:#4C4748}
+table{
+  font-family: 'DejaVuSansBook', arial, sans-serif;
+  text-align:center; 
+  font-variant:small-caps;
+  font-size:12px;
+  font-weight:normal;
+  margin:0px;
+  color:#4C4748;}
+  
+A:link {
+  COLOR: black;
+  TEXT-DECORATION: none}
+A:visited {
+  COLOR: black;
+  TEXT-DECORATION: none}
+A:hover {
+  COLOR: orange; 
+  TEXT-DECORATION: none}
